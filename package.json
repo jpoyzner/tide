@@ -9,7 +9,6 @@
   "author": "Jeff Poyzner",
   "license": "ISC",
   "dependencies": {
-    "google-finance": "^0.1.9",
     "mysql": "^2.12.0",
     "node-schedule": "^1.2.0"
   }
