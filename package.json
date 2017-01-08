@@ -1,0 +1,16 @@
+{
+  "name": "tide",
+  "version": "1.0.0",
+  "description": "surfin",
+  "main": "tide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Poyzner",
+  "license": "ISC",
+  "dependencies": {
+    "google-finance": "^0.1.9",
+    "mysql": "^2.12.0",
+    "node-schedule": "^1.2.0"
+  }
+}
