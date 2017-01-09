@@ -138,7 +138,9 @@ module.exports = {
 						}
 		    	    }
 		    	    
-		    	    pageRes.end();
+		    	    if (pageRes) {
+		    	    	pageRes.end();
+		    	    }
 		    	});
 		    });
 		});
